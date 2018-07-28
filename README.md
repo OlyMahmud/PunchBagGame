@@ -1,2 +1,2 @@
 # PunchBagGame
-A simple mini game.
+A simple mini game made by M. Oly Mahmud
